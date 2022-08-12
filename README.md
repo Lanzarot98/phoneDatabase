@@ -1,2 +1,2 @@
-# phoneDatabase
-database of phone numbers with the names of people, where we can edit, organize, delete, show, add and exit
+# Phone dataBase with python
+welcome to my phone number database project, made with the Python language
